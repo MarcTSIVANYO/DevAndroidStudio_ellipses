@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DevAndroidStudio</string>
+    <string name="dc">°C</string>
+    <string name="df">°F</string>
+    <string name="dc_df"><![CDATA[°C->°F]]></string>
+    <string name="df_dc"><![CDATA[°F->°C]]></string>
+</resources>
